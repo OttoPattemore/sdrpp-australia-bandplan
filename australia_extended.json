@@ -12,10 +12,16 @@
             "end": 1606500
         },
         {
-            "name": "160m Ham Radio",
+            "name": "FM Broadcast",
+            "type":"broadcast",
+            "start":88000000,
+            "end":108000000
+        },
+        {
+            "name": "DAB+ Broadcast",
             "type": "broadcast",
-            "start": 1800000,
-            "end": 1875000
+            "start": 174000000,
+            "end": 230000000
         },
         {
             "name": "HF Aviation",
@@ -153,7 +159,7 @@
             "name": "HF Marine",
             "type": "marine",
             "start": 19600000,
-            "end": 198000000
+            "end": 19800000
         }    
     ]
 }
