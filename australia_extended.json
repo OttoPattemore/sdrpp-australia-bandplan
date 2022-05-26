@@ -1,0 +1,159 @@
+{
+    "name": "Australia Extended",
+    "country_name": "Australia",
+    "country_code": "AU",
+    "author_name": "Otto Pattemore",
+    "author_url": "https://github.com/OttoPattemore",
+    "bands": [
+        {
+            "name": "AM Broadcast",
+            "type": "broadcast",
+            "start": 526500,
+            "end": 1606500
+        },
+        {
+            "name": "160m Ham Radio",
+            "type": "broadcast",
+            "start": 1800000,
+            "end": 1875000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 2850000,
+            "end": 3155000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 3400000,
+            "end": 3500000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 3800000,
+            "end": 3950000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 4650000,
+            "end": 4750000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 5450000,
+            "end": 5730000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 6525000,
+            "end": 6765000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 8815000,
+            "end": 9040000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 10005000,
+            "end": 10100000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 11175000,
+            "end": 11400000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 13200000,
+            "end": 13360000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 15010000,
+            "end": 15100000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 17900000,
+            "end": 18030000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 21870000,
+            "end": 22000000
+        },
+        {
+            "name": "HF Aviation",
+            "type": "aviation",
+            "start": 23200000,
+            "end": 23350000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 2000000,
+            "end": 2300000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 2450000,
+            "end": 2850000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 4000000,
+            "end": 4438000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 6200000,
+            "end": 6525000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 8000000,
+            "end": 8195000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 12330000,
+            "end": 13200000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 16360000,
+            "end": 17460000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 18780000,
+            "end": 18900000
+        },
+        {
+            "name": "HF Marine",
+            "type": "marine",
+            "start": 19600000,
+            "end": 198000000
+        }    
+    ]
+}
