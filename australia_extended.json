@@ -60,6 +60,54 @@
             "end": 7450000
         },
         {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 9400000,
+            "end": 9900000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 11600000,
+            "end": 12100000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 13570000,
+            "end": 13870000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 15100000,
+            "end": 15830000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 17480000,
+            "end": 17900000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 18900000,
+            "end": 19020000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 21450000,
+            "end": 21850000
+        },
+        {
+            "name": "Shortwave Broadcast",
+            "type": "broadcast",
+            "start": 25670000,
+            "end": 26100000
+        },
+        {
             "name": "80m Ham Band",
             "type": "amateur",
             "start": 3500000,
