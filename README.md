@@ -1,6 +1,6 @@
 # SDR Plus Plus Extended Australian band plan
-A comprehensive band plan for Australia.
-
+A comprehensive band plan for Australia.  This is still very work in progress.
+![Header Image](/header.png)
 ## Sources
 [HF Underground](https://www.hfunderground.com/wiki/index.php/HF_marine)
 
